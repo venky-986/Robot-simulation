@@ -2,61 +2,29 @@
 
 <!-- 
 
-# ===================================== COPYRIGHT ===================================== #
-#                                                                                       #
-#  IFRA (Intelligent Flexible Robotics and Assembly) Group, CRANFIELD UNIVERSITY        #
-#  Created on behalf of the IFRA Group at Cranfield University, United Kingdom          #
-#  E-mail: IFRA@cranfield.ac.uk                                                         #
-#                                                                                       #
-#  Licensed under the Apache-2.0 License.                                               #
-#  You may not use this file except in compliance with the License.                     #
-#  You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0  #
-#                                                                                       #
-#  Unless required by applicable law or agreed to in writing, software distributed      #
-#  under the License is distributed on an "as-is" basis, without warranties or          #
-#  conditions of any kind, either express or implied. See the License for the specific  #
-#  language governing permissions and limitations under the License.                    #
-#                                                                                       #
-#  IFRA Group - Cranfield University                                                    #
-#  AUTHORS: Mikel Bueno Viso - Mikel.Bueno-Viso@cranfield.ac.uk                         #
-#           Seemal Asif      - s.asif@cranfield.ac.uk                                   #
-#           Phil Webb        - p.f.webb@cranfield.ac.uk                                 #
-#                                                                                       #
-#  Date: October, 2022.                                                                 #
-#                                                                                       #
-# ===================================== COPYRIGHT ===================================== #
-
-# ======= CITE OUR WORK ======= #
-# You can cite our work with the following statement:
-# IFRA (2022) ROS2.0 ROBOT SIMULATION. URL: https://github.com/IFRA-Cranfield/ros2_RobotSimulation.
 
 -->
 
 <!--
 
-  README.md TEMPLATE obtined from:
-      https://github.com/othneildrew/Best-README-Template
-      AUTHOR: OTHNEIL DREW 
+  
 
 -->
 
 <!-- HEADER -->
 <br />
 <div align="center">
-  <a>
-    <img src="media/header.jpg" alt="header" width="651" height="190.5">
-  </a>
+  
+  
 
   <br />
 
   <h2 align="center">ROS2.0 ROBOT SIMULATION - ROS2.0 Foxy</h2>
 
   <p align="center">
-    IFRA (Intelligent Flexible Robotics and Assembly) Group
-    <br />
-    Centre for Robotics and Assembly
-    <br />
-    Cranfield University
+    IFRA (Intelligent Flexible Robotics and Assembly) 
+    
+  
   </p>
 </div>
 
@@ -280,75 +248,14 @@ Don't forget to give the project a star! Thanks you very much!
 <!-- LICENSE -->
 ## License
 
-<p>
-  Intelligent Flexible Robotics and Assembly Group
-  <br />
-  Created on behalf of the IFRA Group at Cranfield University, United Kingdom
-  <br />
-  E-mail: IFRA@cranfield.ac.uk 
-  <br />
-  <br />
-  Licensed under the Apache-2.0 License.
-  <br />
-  You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
-  <br />
-  <br />
-  <a href="https://www.cranfield.ac.uk/">Cranfield University</a>
-  <br />
-  School of Aerospace, Transport and Manufacturing (SATM)
-  <br />
-    <a href="https://www.cranfield.ac.uk/centres/centre-for-robotics-and-assembly">Centre for Robotics and Assembly</a>
-  <br />
-  College Road, Cranfield
-  <br />
-  MK43 0AL, Bedfordshire, UK
-  <br />
-</p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CITE OUR WORK -->
-## Cite our work
 
-<p>
-  You can cite our work with the following statement:
-  <br />
-  IFRA (2022) ROS2.0 ROBOT SIMULATION. URL: https://github.com/IFRA-Cranfield/ros2_RobotSimulation.
-</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
 
-<p>
-  Mikel Bueno Viso - Research Assistant in Intelligent Automation at Cranfield University
-  <br />
-  E-mail: Mikel.Bueno-Viso@cranfield.ac.uk
-  <br />
-  LinkedIn: https://www.linkedin.com/in/mikel-bueno-viso/
-  <br />
-  Profile: https://www.cranfield.ac.uk/people/mikel-bueno-viso-32884399
-  <br />
-  <br />
-  Dr. Seemal Asif - Lecturer in Artificial Intelligence and Robotics at Cranfield University
-  <br />
-  E-mail: s.asif@cranfield.ac.uk
-  <br />
-  LinkedIn: https://www.linkedin.com/in/dr-seemal-asif-ceng-fhea-miet-9370515a/
-  <br />
-  Profile: https://www.cranfield.ac.uk/people/dr-seemal-asif-695915
-  <br />
-  <br />
-  Professor Phil Webb - Professor of Aero-Structure Design and Assembly at Cranfield University
-  <br />
-  E-mail: p.f.webb@cranfield.ac.uk
-  <br />
-  LinkedIn: https://www.linkedin.com/in/phil-webb-64283223/
-  <br />
-  Profile: https://www.cranfield.ac.uk/people/professor-phil-webb-746415 
-  <br />
-</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
